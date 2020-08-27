@@ -1,4 +1,5 @@
 # COMP9414_Assignment
 All codes and dataset are placed under "code and dataset/" directory.
 
-The specs includes usage of submitted codes.
+specs.pdf includes usage of submitted codes.
+report.pdf includes my answer for questions given in the specs.
